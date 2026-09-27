@@ -16,7 +16,7 @@ Whiskey drinkers know what they like. Very few know why. The answer sits in deci
 - **A score that measures the right thing.** Each style has a conformance baseline derived from the rules. Following the guidance lands you on it. The everyday score reads style fit. Craft is judged on the decisions the app does not steer you toward.
 - **Séamus.** A master distiller persona that voices the app and calibrates the engine. Every ruling he makes sits in a ledger the test suite enforces.
 - **Real-time cask ageing.** One day in your life is one year in the barrel. A twelve year single malt takes twelve days. Poitín needs no cask, so you can bottle one tonight.
-- **Checked, not asserted.** 53 test suites. Every build is matched against 138 real expressions. If the app's copy states a number the engine contradicts, the build fails.
+- **Checked, not asserted.** 53 test suites. Every build is checked against real whiskeys on the shelf. If the app's copy states a number the engine contradicts, the build fails.
 
 ## Where it stands
 
