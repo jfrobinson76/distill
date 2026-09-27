@@ -14,9 +14,9 @@ Whiskey drinkers know what they like. Very few know why. The answer sits in deci
 - **Real mechanisms.** Still height, lyne arm and condenser resolve into a reflux index. Peat smoke is set in the spirit and holds with age. Char smoke drifts. Strength falls in cool damp warehouses and rises in hot dry ones.
 - **It explains itself.** The engine re-runs your whiskey with each decision reset to a plain baseline and measures what moved. The ranked "why" is computed, never written by hand, so the explanation and the result cannot disagree.
 - **A score that measures the right thing.** Each style has a conformance baseline derived from the rules. Following the guidance lands you on it. The everyday score reads style fit. Craft is judged on the decisions the app does not steer you toward.
-- **Séamus.** A master distiller persona that voices the app and audits the engine. No change that moves a score ships without his ruling, and every ruling sits in a ledger the test suite enforces.
+- **Séamus.** A master distiller persona that voices the app and calibrates the engine. Every ruling he makes sits in a ledger the test suite enforces.
 - **Real-time cask ageing.** One day in your life is one year in the barrel. A twelve year single malt takes twelve days. Poitín needs no cask, so you can bottle one tonight.
-- **Checked, not asserted.** 53 test suites. Every build is matched against 138 real expressions. If a screen states a number the engine contradicts, the build fails.
+- **Checked, not asserted.** 53 test suites. Every build is matched against 138 real expressions. If the app's copy states a number the engine contradicts, the build fails.
 
 ## Where it stands
 
