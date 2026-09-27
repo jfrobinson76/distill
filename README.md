@@ -14,7 +14,7 @@
 
 ## How it was built
 
-Built solo with AI coding agents, starting April 2026. Live on the App Store in the US and UK since September 2026.
+Built solo with AI coding agents, starting April 2026. Live on the App Store since September 2026.
 
 Stack: React Native, Expo, TypeScript.
 
